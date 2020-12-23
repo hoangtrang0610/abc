@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\httrang\\Desktop\\prj1\\prj1\\prj1.csproj": {}
+    "C:\\Users\\httrang\\Documents\\GitHub\\abc\\prj1\\prj1\\prj1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\httrang\\Desktop\\prj1\\prj1\\prj1.csproj": {
+    "C:\\Users\\httrang\\Documents\\GitHub\\abc\\prj1\\prj1\\prj1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\httrang\\Desktop\\prj1\\prj1\\prj1.csproj",
+        "projectUniqueName": "C:\\Users\\httrang\\Documents\\GitHub\\abc\\prj1\\prj1\\prj1.csproj",
         "projectName": "prj1",
-        "projectPath": "C:\\Users\\httrang\\Desktop\\prj1\\prj1\\prj1.csproj",
+        "projectPath": "C:\\Users\\httrang\\Documents\\GitHub\\abc\\prj1\\prj1\\prj1.csproj",
         "packagesPath": "C:\\Users\\httrang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\httrang\\Desktop\\prj1\\prj1\\obj\\",
+        "outputPath": "C:\\Users\\httrang\\Documents\\GitHub\\abc\\prj1\\prj1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\httrang\\AppData\\Roaming\\NuGet\\NuGet.Config",
